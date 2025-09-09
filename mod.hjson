@@ -1,0 +1,13 @@
+name: Mindustrial Additions
+description: '''
+  Replaces all applicable music in Mindustry with Team Oct's Erekir Music. Doesn't change based on planet.
+  
+  Music by Saigo no-nozomi.
+
+  See github.com/TeamOct/Erekir-Music for the original mod.
+  '''
+author: Chax0180
+minGameVersion: 136
+version: 1.0
+hidden: true
+hideBrowser: true
