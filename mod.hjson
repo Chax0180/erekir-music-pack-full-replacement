@@ -1,10 +1,12 @@
 name: Mindustrial Additions
 description: '''
-  Replaces all applicable music in Mindustry with Team Oct's Erekir Music. Doesn't change based on planet.
+  Replaces all music in Mindustry with Team Oct's Erekir Music, and some unused tracks. Doesn't change based on planet.
   
   Music by Saigo no-nozomi.
 
   See github.com/TeamOct/Erekir-Music for the original mod.
+
+  Replaces "Fine" and the menu theme with the unused "Day3" track and an unused menu theme, respectively.
   '''
 author: Chax0180
 minGameVersion: 136
